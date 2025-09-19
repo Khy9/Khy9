@@ -1,14 +1,12 @@
-## Hi, This is Khyathi 👋
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Delius+Swash+Caps&size=28&duration=4000&pause=100&color=87ceeb&center=false&vCenter=true&width=1000&letterSpacing=16&lines=Hey,+this+is+Khyathi+Mallula;CSE+IoT+CyS+Student;Cybersecurity+Buff+|+IoT+Enthusiast;Tech+Explorer+|+Code+Crafter" alt="Typing SVG">
+</p>
 
 🎓 2nd Year B.Tech CSE-IoT, CyberSecurity Student 
 
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=leetcode" />
 </p>
